@@ -1,0 +1,9 @@
+# Dependências (Jest e qualquer outra lib que você instalar via npm)
+node_modules/
+
+# Relatórios de cobertura de teste (o Jest gera isso automaticamente)
+coverage/
+
+# Arquivos de configuração local do editor/SO
+Thumbs.db
+.vscode/
