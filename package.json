@@ -1,0 +1,24 @@
+{
+  "name": "logistica-estoque",
+  "version": "1.0.0",
+  "description": "- Sistema de controle de estoque com autenticação, controle de acesso por cargo (RBAC) e otimização de rotas (Algoritmo de Dijkstra), construído em JS puro seguindo utilizando uma arquitetura hexagona (ports & adapters)",
+  "main": "main.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JotaG7/logistica-estoque.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/JotaG7/logistica-estoque/issues"
+  },
+  "homepage": "https://github.com/JotaG7/logistica-estoque#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
