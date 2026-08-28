@@ -4,7 +4,7 @@
   "description": "- Sistema de controle de estoque com autenticação, controle de acesso por cargo (RBAC) e otimização de rotas (Algoritmo de Dijkstra), construído em JS puro seguindo utilizando uma arquitetura hexagona (ports & adapters)",
   "main": "main.js",
   "scripts": {
-    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
   },
   "repository": {
     "type": "git",
