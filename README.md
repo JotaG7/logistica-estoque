@@ -1,6 +1,6 @@
 # Logística Estoque
 
-- Sistema de controle de estoque com autenticação, controle de acesso por cargo (RBAC) e otimização de rotas (Algoritmo de Dijkstra), construído em JS puro seguindo utilizando uma arquitetura hexagona (ports & adapters)
+- Sistema de controle de estoque com autenticação, controle de acesso por cargo (RBAC) e otimização de rotas (Algoritmo de Dijkstra), construído em JS puro seguindo utilizando uma arquitetura hexagonal (ports & adapters)
 
 ## Tecnologias
 
