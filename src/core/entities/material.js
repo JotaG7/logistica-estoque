@@ -10,7 +10,7 @@ export class Materiais {
     this.galpaoOrigem = galpaoOrigem;
   }
 
-  //encapsulamento com comportamento
+  //metodo getter de campo privado
   getQuantidade() {
     return this.#quantidade;
   }
